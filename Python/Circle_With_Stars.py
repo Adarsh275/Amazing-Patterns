@@ -16,3 +16,5 @@ for i in range(80):
     for j in range (5):
         t.forward(250)
         t.left(144)
+
+turtle.done()           

@@ -11,3 +11,5 @@ for i in range(120):
     t.left(90)
     t.circle(190-i,90)
     t.left(18)
+
+turtle.done()   

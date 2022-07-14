@@ -17,4 +17,6 @@ for i in range(250):
     t.circle(55,i)
     t.forward(i)
     t.left(91)
+
+turtle.done()       
     
